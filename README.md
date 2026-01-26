@@ -1,4 +1,4 @@
-# Task 6: Introduction to Cryptography
+# Introduction to Cryptography
 
 This repository contains a deep theoretical and practical introduction
 to cryptography.
